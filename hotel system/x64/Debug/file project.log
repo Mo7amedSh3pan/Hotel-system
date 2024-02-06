@@ -1,0 +1,26 @@
+﻿  Source.cpp
+C:\Users\PanDa\source\repos\file project\file project\secondry.h(28,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\secondry.h(46,21): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\secondry.h(70,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\secondry.h(83,37): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\primary.h(60,36): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\Rooms.h(44,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\Rooms.h(59,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\Rooms.h(63,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\Rooms.h(100,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\Rooms.h(104,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\Rooms.h(122,28): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\Rooms.h(169,27): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\Rooms.h(173,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\Rooms.h(191,28): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\customer.h(79,45): warning C4244: 'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\customer.h(83,29): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\customer.h(91,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\customer.h(114,45): warning C4244: 'argument': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\customer.h(118,29): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\customer.h(126,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\customer.h(237,43): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\customer.h(245,32): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\customer.h(253,30): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\PanDa\source\repos\file project\file project\customer.h(295,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  file project.vcxproj -> C:\Users\PanDa\source\repos\file project\x64\Debug\file project.exe
